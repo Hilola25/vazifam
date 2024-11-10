@@ -17,12 +17,17 @@ namespace vazifa
 
             while (s > 0)
             {
-                int q = s % 8;
-                natija = q + natija;
-                s /= 8;
+                int q = s % 16;
+
+                if (q < 10)
+                    natija = q + natija;
+                else
+                    natija = (char)(q - 10 + 'A') + natija;
+
+                s /= 16;
             }
 
-            Console.WriteLine("8 lik natijasi: "+ natija);
+            Console.WriteLine("16 lik natijasi: "+ natija);
             Console.ReadKey();
         }
     }
