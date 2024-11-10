@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bulutli\\vazifa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91975A0A-6E87-4281-8D7B-124279C4B349}|vazifa\\vazifa.csproj|d:\\bulutli\\vazifa\\vazifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91975A0A-6E87-4281-8D7B-124279C4B349}|vazifa\\vazifa.csproj|solutionrelative:vazifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bulutli\\vazifa\\vazifa\\Program.cs",
+              "RelativeDocumentMoniker": "vazifa\\Program.cs",
+              "ToolTip": "D:\\bulutli\\vazifa\\vazifa\\Program.cs*",
+              "RelativeToolTip": "vazifa\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:05:13.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\bulutli\vazifa\vazifa\bin\Debug\vazifa.exe.config
+D:\bulutli\vazifa\vazifa\bin\Debug\vazifa.exe
+D:\bulutli\vazifa\vazifa\bin\Debug\vazifa.pdb
+D:\bulutli\vazifa\vazifa\obj\Debug\vazifa.csproj.AssemblyReference.cache
+D:\bulutli\vazifa\vazifa\obj\Debug\vazifa.csproj.CoreCompileInputs.cache
+D:\bulutli\vazifa\vazifa\obj\Debug\vazifa.exe
+D:\bulutli\vazifa\vazifa\obj\Debug\vazifa.pdb
